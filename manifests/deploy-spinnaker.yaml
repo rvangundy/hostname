@@ -35,4 +35,3 @@ spec:
         name: hostname
         resources: {}
       restartPolicy: Always
-
